@@ -1,7 +1,0 @@
-# Ignorer les fichiers système et personnels
-/AppData/
-*.log
-*.ini
-*.DS_Store
-NTUSER*
-/__MACOSX/
